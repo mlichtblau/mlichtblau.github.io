@@ -23,7 +23,7 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    forks: false
+    forks: true
     projects:
       - keyfinder
       - hackupc2017v2
@@ -31,6 +31,8 @@ projects:
       - talks
       - PuppetFiles
       - homebrew-core
+      - angular
+      - SpotHub
     # - repo-name
 
 social_media:
