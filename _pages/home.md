@@ -30,8 +30,8 @@ feature_row_me:
     alt: "Marius"
     title: "About me"
     excerpt: "I am Software Engineering Master student living in Munich.<br>I like programming and finding solutions to difficult problems.<br>When I don't code I like to travel, ride my motorbike or take pictures with my film camera."
-    url: "#test-link"
-    btn_label: "Blubber"
+    url: "/blog"
+    btn_label: "Go to Blog"
     btn_class: "btn--inverse"
 gallery:
   - url: /assets/images/meer.jpg
