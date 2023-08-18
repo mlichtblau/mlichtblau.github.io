@@ -62,3 +62,4 @@ include:
 
 paginate: 5 # amount of posts to show
 paginate_path: /blog/page:num
+permalink: /:year/:month/:day/:title:output_ext
