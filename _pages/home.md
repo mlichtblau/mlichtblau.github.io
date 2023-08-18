@@ -1,5 +1,5 @@
 ---
-title: "Hi, my name is Marius"
+title: "Home"
 layout: splash
 permalink: /
 date: 2023-04-18T21:47:00+02:00
