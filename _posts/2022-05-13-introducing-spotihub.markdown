@@ -19,7 +19,7 @@ On September 26, 2018 I started with my first version of the SpotiHub backend. S
 
 ## Features
 
-Now I want to showcase some of the features and use cases I imagined when developing SpotiHub. For a detailed introduction on how to use this features please checkout the Tutorial **(TODO(mlichtblau) link to Tutorial)**
+Now I want to showcase some of the features and use cases I imagined when developing SpotiHub. For a detailed introduction on how to use this features please checkout the [Tutorial](/2022/05/13/spotihub-tutorial.html).
 
 ### Manage versions of your own Playlists
 
@@ -37,4 +37,4 @@ But what happens if the creator doesn't like your changes? You can just keep you
 
 ## Try it out!
 
-If you are interested head to [SpotiHub](http://spotihub.com){:target="_blank"} to try it out! I encourage you to do the tutorial to learn how to use all of SpotiHub's features or checkout the **Tutorial Link** blog post. If you have any questions or comments please reach out at [hello@spotihub.com](mailto:hello@spotihub.com). For any bugs or issues please use [issues@spotihub.com](mailto:issues@spotihub.com).
+If you are interested head to [SpotiHub](http://spotihub.com){:target="_blank"} to try it out! I encourage you to do the tutorial to learn how to use all of SpotiHub's features or checkout the [Tutorial](/2022/05/13/spotihub-tutorial.html) blog post. If you have any questions or comments please reach out at [hello@spotihub.com](mailto:hello@spotihub.com). For any bugs or issues please use [issues@spotihub.com](mailto:issues@spotihub.com).
