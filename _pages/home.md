@@ -24,7 +24,7 @@ header:
         style_class: ".btn--inverse"
         size_class: "btn--small"
   caption: "Cinque Terre (2022)"
-excerpt: "Welcome to my Homepage.<br>Find out more about me and my work below.<br>Or checkout the [blog](/blog). (soon...)"
+excerpt: "Welcome to my Homepage. <br>Find out more about me and my work below. <br>Or checkout the [blog](/blog). (soon...)"
 feature_row_me:
   - image_path: /assets/images/me.jpg
     alt: "Marius"
