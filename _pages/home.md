@@ -8,13 +8,13 @@ header:
   overlay_filter: "0.7"
   overlay_image: /assets/images/cinque-terre-splash.jpg
   actions:
-    - label: "Education"
-      url: "/#education"
+    - label: "Experience"
+      url: "/#experience"
       button:
         style_class: ".btn--inverse"
         size_class: "btn--small"
-    - label: "Experience"
-      url: "/#experience"
+    - label: "Education"
+      url: "/#education"
       button:
         style_class: ".btn--inverse"
         size_class: "btn--small"
@@ -24,12 +24,14 @@ header:
         style_class: ".btn--inverse"
         size_class: "btn--small"
   caption: "Cinque Terre (2022)"
-excerpt: "Welcome to my Homepage. <br>Find out more about me and my work below. <br>Or checkout the [blog](/blog). (soon...)"
+excerpt: "Welcome to my Homepage. <br>Find out more about me and my work below. <br>Or checkout the [blog](/blog)."
 feature_row_me:
   - image_path: /assets/images/me.jpg
     alt: "Marius"
     title: "About me"
-    excerpt: "I am Software Engineering Master student living in Munich.<br>I like programming and finding solutions to difficult problems.<br>When I don't code I like to travel, ride my motorbike or take pictures with my film camera."
+    excerpt: "I am a Software Engineer with a focus on distributed systems based in Munich.<br>
+    I particularly enjoy coding in collaboration with others, whether it's at work or on personal projects.<br>
+    Outside of work, I'm an avid traveler and film photography enthusiast."
     url: "/blog"
     btn_label: "Go to Blog"
     btn_class: "btn--inverse"
@@ -48,7 +50,7 @@ gallery:
     title: "Montenegro, 2020"
 master:
   - title: "Software Engineering Elite Graduate Program (Master)"
-    time: "2020 - now"
+    time: "2020 - 2022"
     location: "TU Munich, LMU, Universität Augsburg"
     images:
       - image_path: /assets/images/tum.png
@@ -57,7 +59,7 @@ master:
         alt: "LMU München Logo"
       - image_path: /assets/images/augsburg.png
         alt: "Universität Augsburg Logo"
-    excerpt: 'The Software Engineering Elite Graduate Program provides a unique learning opportunity with allowing only 16 students per year. I am currently taking a variety of courses from "modelling, specification and verification of reactive systems" to "database implementations". I will receive my Master egree in 2022.'
+    excerpt: 'The Software Engineering Elite Graduate Program provides a unique learning opportunity with allowing only 16 students per year. I took a variety of courses from "modelling, specification and verification of reactive systems" to "database implementations". I received my Master egree in 2022.'
     url: "https://elite-se.informatik.uni-augsburg.de/"
     btn_label: "Program Homepage"
     btn_class: "btn--inverse"
@@ -74,13 +76,25 @@ bachelor:
     btn_class: "btn--inverse"
 celonis:
   - title: "Celonis"
-    time: "2021 - now"
+    time: "Software Engineer <small>(Feb 2023 - Now)</small>
+    <br>
+    Junior Software Engineer <small>(Sep 2022 - Jan 2023)</small>
+    <br>
+    Working Student <small>(Nov 2021 - Aug 2022)</small>"
     location: "Munich, Germany"
     images:
       - image_path: /assets/images/celonis.png
         alt: "Celonis Logo"
         width: 160px
-    excerpt: 'I am a software engineering working student in the SaolaDB team at Celonis. The SaolaDB is a fast in-memory database built for business processes, that allows customers to use the PQL language for process mining. I am currently working on the Java Spring microservices responsible for delivering fast and reliable access to the database while scaling to the large number of new customers.'
+    excerpt: 'As a Software Engineer at Celonis, I work on SaolaDB, an in-memory database for process mining through Process Query Language (PQL) queries.
+    <br>
+    Currently, I develop Java Spring Boot services for orchestrating our distributed data models, prioritizing performance and reliability. 
+    <br>
+    I helped create a framework for executing long-running, asynchronous tasks, improving developer experience and reliability within our ETL pipeline. 
+    <br>
+    Additionaly, I contributed to making data models highly available by introducing redundancy.
+    <br>
+    My work directly contributes to Celonis mission of transforming global business efficiency through data-driven solutions.'
     url: "https://www.celonis.com/"
     btn_label: "Homepage"
     btn_class: "btn--inverse"
@@ -92,7 +106,8 @@ koppla:
       - image_path: /assets/images/koppla.png
         alt: "Koppla Logo"
         width: 160px
-    excerpt: 'At Koppla I was working on the GraphQL backend using TypeScript. I developed new features in a test driven environment and helped transitioning from a monolithic architecture to Microservices. Specifically I was responsible for designing and developing the notification Microservice, which delivered push notifications to the customer apps.'
+    excerpt: 'At Koppla, I focused on the TypeScript-based GraphQL backend, developing new features within a test-driven framework.<br>
+    I contributed to the transition from a monolithic architecture to micro services, specifically the design and development of the notification service responsible for delivering push notifications to customer apps.'
     url: "https://www.koppla.de/"
     btn_label: "Homepage"
     btn_class: "btn--inverse"
@@ -104,7 +119,9 @@ sap:
       - image_path: /assets/images/sap.png
         alt: "SAP Logo"
         width: 160px
-    excerpt: 'As a software engineering intern at SAP Labs Silicon Valley I helped develop an internal prototype for improving the hiring process at SAP. In cooperation with local hiring managers we built an application, using SAP process automation tools on SAP Cloud Platform, to automate manual tasks, improve transparency for applicants and provide analytics to the Talent Acquisition team at SAP.'
+    excerpt: 'During my software engineering internship at SAP Labs Silicon Valley, I developed an internal prototype to enhance the hiring process at SAP.<br>
+    Collaborating closely with hiring managers, we created an application leveraging SAP process automation tools on SAP Cloud Platform.<br>
+    This initiative aimed to automate manual tasks, enhance transparency for applicants, and provide analytics to our Talent Acquisition team.'
     url: "https://www.sap.com/about/sap-labs-silicon-valley.html"
     btn_label: "Homepage"
     btn_class: "btn--inverse"
@@ -116,7 +133,8 @@ freiheit-software:
       - image_path: /assets/images/freiheit-software.jpg
         alt: "freiheit.software Logo"
         width: 160px
-    excerpt: 'Using an agile approach our team of four developers created web projects for a variety of customers. I specialised in front end development using Angular and JQuery. Amongst other things I built a tool to create and sign PDF documents online and a single page ticket shop for an event agency.'
+    excerpt: 'As part of a dynamic team of four developers, I specialized in front-end development using Angular and JQuery for various web projects.<br>
+    Notable contributions include crafting a tool for online creation and signing of PDF documents, as well as developing a single-page ticket shop for an event agency.'
     url: "https://freiheit.software/"
     btn_label: "Homepage"
     btn_class: "btn--inverse"
@@ -145,13 +163,6 @@ projects:
 
 {% include gallery class="if-big-screen" %}
 
-## Education
-{: .text-center}
-
-{% include timeline_row id="master" %}
-
-{% include timeline_row id="bachelor" %}
-
 ## Experience
 {: .text-center}
 
@@ -162,6 +173,13 @@ projects:
 {% include timeline_row id="sap" %}
 
 {% include timeline_row id="freiheit-software" %}
+
+## Education
+{: .text-center}
+
+{% include timeline_row id="master" %}
+
+{% include timeline_row id="bachelor" %}
 
 ## Projects
 {: .text-center}
