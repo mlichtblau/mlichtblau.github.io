@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Introducing Kraggl"
-date:   2022-03-16 17:30:52 +0020
+date:   2019-03-16 17:30:52 +0020
 categories: kraggl projects
 header:
   overlay_image: /assets/images/blog/kraggl/kraggl-header.png
